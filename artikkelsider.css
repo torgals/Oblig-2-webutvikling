@@ -76,6 +76,8 @@ table {
   color:blue;
 }
 
-.url {
+.url,
+th .url,
+.url  a  {
   color: red;
 }

@@ -70,6 +70,8 @@ a {
   border-style: solid;
   width: 30%;
   float: left;
+  background-color: rgba(255,255,255,0.4);
+  height: 265px;
 }
 
 #box2 {
@@ -77,13 +79,14 @@ a {
   margin: auto;
   margin-top: 8px;
   margin-bottom: 8px;
-  padding:2%;
   margin-right: 2px;
   border-color: black;
   border-radius: 5px;
   border-style: solid;
   width: 30%;
   float: left;
+  background-color: rgba(255,255,255,0.4);
+  height: 265px;
 }
 
 #box3 {
@@ -96,16 +99,17 @@ a {
   border-style: solid;
   max-width: 30%;
   float: left;
+  background-color: rgba(255,255,255,0.4);
+  height: 265px;
 }
 
 #box4 {
   border: 5px;
   margin: auto;
   margin-bottom: 8px;
-  border-color: black;
-  border-radius: 5px;
-  border-style: solid;
-  max-width: 30%;
+  max-width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
   float: left;
 }
 
@@ -121,4 +125,8 @@ a {
   width: 78%;
   text-align: center;
   float: left;
+}
+.center_center {
+	margin-left: 55px;
+
 }

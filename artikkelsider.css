@@ -18,6 +18,26 @@ body {
   max-width: 100%;
 }
 
+#menu {
+  height: 150px;
+  width: 100%;
+}
+
+#h1mathml {
+  height: 150px;
+  width: 100%;
+}
+
+#h1omsiden {
+  height: 150px;
+  height: 100%;
+}
+
+#h1svg {
+  height: 150px;
+  width: 100%;
+}
+
 #menuul {
   margin-left: 6%;
   min-width: 100%;
